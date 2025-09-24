@@ -1,0 +1,11 @@
+Proxenora Research License (PRL)
+
+Permission is granted to use and modify this dataset for personal, educational, and research purposes only.
+
+Redistribution, repackaging, or use for third-party services, platforms, or commercial distribution is strictly prohibited.
+
+Advanced content is gated and requires explicit approval from the maintainer.
+
+This dataset is provided "as is" without warranty of any kind. The maintainer assumes no liability for misuse or damage.
+
+By using this dataset, you agree to comply with all applicable laws and ethical standards.
